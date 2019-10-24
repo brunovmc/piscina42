@@ -1,0 +1,12 @@
+Credentials cache: API:1424364
+        Principal: bvidigal@42SP.ORG.BR
+    Cache version: 0
+
+Server: krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Client: bvidigal@42SP.ORG.BR
+Ticket etype: aes256-cts-hmac-sha1-96, kvno 1
+Ticket length: 323
+Auth time:  Sep 30 17:32:19 2019
+End time:   Oct  7 17:32:15 2019
+Ticket flags: enc-pa-rep, pre-authent, initial, proxiable, forwardable
+Addresses: addressless
